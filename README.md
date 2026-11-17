@@ -50,6 +50,8 @@ npm run dev
 
 ## 实机截图
 
+[查看精选 9 张原尺寸实机照（按发帖顺序）](./docs/screenshots/selected/)
+
 | 沿着海边石径走 | 值守屋里的油灯 |
 | --- | --- |
 | <img src="docs/screenshots/coastal-path.jpg" alt="落日照着海边的石径和木栏杆" width="320"> | <img src="docs/screenshots/keepers-cottage.jpg" alt="值守屋里的木桌、日志和油灯" width="320"> |
