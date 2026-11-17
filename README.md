@@ -3,6 +3,11 @@
 第一人称海岸步行演示：沿旧石径走向灯塔，读几件前人留下的东西，推开栅门，替末任值守把灯点上。
 Three.js 0.187 · WebGPU · TSL · Vite。
 
+<p align="center">
+  <img src="docs/screenshots/lighthouse-at-dusk.jpg" alt="日落时亮灯的灯塔和值守屋" width="480">
+</p>
+<p align="center">落日下的灯塔和值守屋 · 游戏实机</p>
+
 ## 运行
 
 ### 直接玩
@@ -42,6 +47,16 @@ npm run dev
 值守室可以进去：推开屋门，桌上有日志和一盏可以点亮的油灯，墙上钉着潮汐表。进屋后曝光会抬高、风声海声变闷。
 灯塔也可以进去：拿到信箱里的钥匙后能打开塔门，沿内壁的螺旋石阶走到灯室，从塔顶看海；灯器上有一块铭牌可以查看，灯室里的开关也可以点亮或关掉灯塔。朝海的门洞可通往有护栏的外侧环廊，绕塔一圈后可以从原路返回。楼梯间打开窗户时，靠近能听到从窗外传来的风浪声。
 不取钥匙直接到塔下，配电盒打不开。
+
+## 实机截图
+
+| 沿着海边石径走 | 值守屋里的油灯 |
+| --- | --- |
+| <img src="docs/screenshots/coastal-path.jpg" alt="落日照着海边的石径和木栏杆" width="320"> | <img src="docs/screenshots/keepers-cottage.jpg" alt="值守屋里的木桌、日志和油灯" width="320"> |
+
+| 推开高窗看海崖 | 在塔顶环廊看落日 |
+| --- | --- |
+| <img src="docs/screenshots/open-window.jpg" alt="从打开的铁窗望向海崖" width="320"> | <img src="docs/screenshots/gallery-sunset.jpg" alt="从环廊俯望海面和落日" width="320"> |
 
 ## 结构
 
