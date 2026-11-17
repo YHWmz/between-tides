@@ -1,0 +1,13 @@
+{
+  "dusk": {
+    "natural": "4096x2048",
+    "mode": "clipped",
+    "clipped": 34,
+    "col": 2047.2,
+    "shift": 1,
+    "sunElevDeg": 0.99,
+    "moonElevDeg": null,
+    "meanLum": 0.523,
+    "bytes": 116000
+  }
+}
